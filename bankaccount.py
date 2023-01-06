@@ -1,5 +1,5 @@
+#Collins Wanga
 
-#task1
 class BankAccount:
     def __init__(self,accNo):
         self.accNo=accNo
